@@ -13,3 +13,36 @@
   .txt-decoration {
     text-decoration: none;
   }
+
+  .image-link {
+    text-decoration: none;
+  }
+
+  .box-padding {
+    padding: 10px;
+  }
+
+  .txt-align {
+    text-align: center; margin: 60px 0 80px 0;
+  }
+
+  .auto-margin {
+    display: block; margin: 0 auto;
+  }
+
+  .box-display {
+    width: 500px; margin: 20px auto; padding: 30px; background-color: #f4f4f4;
+  }
+
+  .float-display {
+    float: left; margin: 0 35px 0 0;
+  }
+
+  .font-style-I{
+    font-style: italic; font-size: 20px;
+  }
+
+  .font-style-norm{
+    font-style: normal; font-size: 24px; font-weight: bold; color:#f00000
+  }
+  
